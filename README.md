@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Guilherme Veloso, i am a Front-End developer, 25 years, from Rio de Janeiro, passionate about music, programming and games.
+
 ##
 
 <div align="center">
